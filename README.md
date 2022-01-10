@@ -3,16 +3,16 @@
 ![AutoKeyPic](https://user-images.githubusercontent.com/62051355/148771673-8d71375e-a230-4d8c-aac2-d893f1aba878.jpg)
 
 概要
-「Auto Key」は、Mini Keypadをマイコンで制御するためのモジュールです。
-REVIVE USBを使ったキーボードなど制御することも出来ます。
+「Auto Key」は、Mini Keypadをマイコンで制御するためのモジュールです。<BR>
+REVIVE USBを使ったキーボードなど制御することも出来ます。<BR>
 
-Auto Key
+Auto Key<BR>
 https://github.com/kosaku-damashii/MiniKeypad-AutoKey
 
-Mini Keypad
+Mini Keypad<BR>
 https://github.com/kosaku-damashii/MiniKeypad
 
-REVIVE USB
+REVIVE USB<BR>
 https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/
 
 特徴<BR>
