@@ -15,9 +15,9 @@ https://github.com/kosaku-damashii/MiniKeypad
 REVIVE USB
 https://bit-trade-one.co.jp/product/assemblydisk/revive-usb/
 
-特徴
+特徴<BR>
 ・4つのキーを制御出来ます。
-・Auto Key上にあるタクトスイッチを入力として制御することが出来ます。
-・スライドスイッチでAuto Keyの電源をON/OFFすることが出来ます。
-・Mini Keypad以外でも、REVIVE USBなど、キー押下でGNDヘ接続するモジュールに接続して制御することも出来ます。その場合、ブレッドボードに挿して使用することを想定しています。
+・Auto Key上にあるタクトスイッチを入力として制御することが出来ます。<BR>
+・スライドスイッチでAuto Keyの電源をON/OFFすることが出来ます。<BR>
+・Mini Keypad以外でも、REVIVE USBなど、キー押下でGNDヘ接続するモジュールに接続して制御することも出来ます。その場合、ブレッドボードに挿して使用することを想定しています。<BR>
 
